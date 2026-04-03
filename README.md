@@ -1,23 +1,24 @@
 <h1 align="center">Hi there, I'm zhicongLee 👋</h1>
 
 <p align="center">
-  A Frontend-Focused Engineer, evolving into Full-Stack & AI Engineering
+  A Full-Stack Engineer focused on deeper engineering, scalable systems, and solid technical growth
 </p>
 
 <p align="center">
-  Frontend depth first, engineering as leverage, AI as acceleration.
+  Full-stack execution first, deeper engineering as direction, long-term technical depth as the goal.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Currently working on frontend engineering, AI-integrated applications, and scalable web platforms
-- 🌱 Currently learning backend architecture, full-stack engineering, and AI agent development
-- 🛠 Experience in frontend tooling, performance optimization, and product-oriented development
-- 🎯 Focused on Vue / React / TypeScript / Node.js / Python
-- 📦 Interested in engineering infrastructure, reusable systems, and workflow efficiency
-- 🌍 Based in China
+
+- 💼 Currently working on backend engineering, scalable web systems, and practical product development
+- 🌱 Currently learning system architecture, distributed systems, and deeper software engineering practices
+- 🛠 Experience in backend development, API design, system integration, and product-oriented implementation
+- 🎯 Focused on Java / Spring Boot / Node.js / MySQL / Redis
+- 📦 Interested in software architecture, reusable systems, and engineering efficiency
+- 🌍 Based in Guangzhou,China
 
 ---
 
