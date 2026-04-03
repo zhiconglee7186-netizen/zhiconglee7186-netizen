@@ -66,28 +66,26 @@
 
 ## 📂 Featured Projects
 
-### Grafiqor
-A platform focused on AI-powered media generation, workflow orchestration, and scalable product delivery.
+### Kylendar
+A smart calendar platform built around connected devices, backend services, and scalable web infrastructure.
 
 **Highlights**
-- Full-stack architecture with frontend, backend, and media pipeline integration
-- AI task distribution and workflow execution
-- Object storage integration and user asset management
-- Product-oriented development with real deployment considerations
+- Led backend-focused full-stack development across frontend, backend, and device integration
+- Built API services, storage workflows, and end-to-end product features
+- Integrated object storage and user asset management into the platform
+- Delivered product-oriented solutions with practical deployment and maintenance considerations
+
+### Grafiqor
+A media-oriented web platform focused on scalable application architecture, asset workflows, and product delivery.
+
+**Highlights**
+- Developed backend services and platform capabilities for content and workflow management
+- Supported full-stack collaboration across frontend, backend, and infrastructure integration
+- Built practical storage, task, and deployment workflows for product use
+- Focused on maintainability, scalability, and real-world product implementation
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## 📫 Contact
 
