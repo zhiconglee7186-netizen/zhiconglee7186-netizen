@@ -181,18 +181,6 @@ My long-term direction is to grow from full-stack execution into deeper backend 
 
 ---
 
-## 📊 GitHub Overview
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zhiconglee7186-netizen&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiconglee7186-netizen&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p>
