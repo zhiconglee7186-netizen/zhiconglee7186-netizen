@@ -181,12 +181,5 @@ My long-term direction is to grow from full-stack execution into deeper backend 
 
 ---
 
-## 📫 Contact
-
-<p>
-  <a href="https://github.com/zhiconglee7186-netizen">
-    <img src="https://img.shields.io/badge/GitHub-zhiconglee7186--netizen-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
 
 Thanks for visiting my profile.
