@@ -150,6 +150,28 @@ A connected smart calendar product platform built around e-ink devices, backend 
 </p>
 
 ---
+### 🧭 R&D Management System
+
+A full-stack internal R&D project management platform built around project lifecycle tracking, delivery workflows, quality management, release coordination, permissions, notifications, and auditability.
+
+**Highlights**
+
+- Led full-stack development across React frontend, Spring Boot backend, database design, and deployment-ready infrastructure
+- Built core workflows for projects, requirements, tasks, Bugs, feature trees, test submissions, versions, releases, materials, and team collaboration
+- Designed API services with session-based authentication, role-based permissions, audit logs, status history, and notification workflows
+- Integrated MySQL persistence, Flyway migrations, JDBC repositories, file/material management, and contribution tracking
+- Supported dashboards, filtering, detail pages, admin tools, health checks, and regression-tested business flows
+- Focused on maintainability, traceable business operations, permission boundaries, and practical use by internal engineering teams
+
+**Related Capabilities**
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack-R%26D%20Platform-blue?style=flat-square" alt="Full-Stack R&D Platform" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-API%20Service-green?style=flat-square" alt="Spring Boot API Service" />
+  <img src="https://img.shields.io/badge/React%20%2B%20Vite-Frontend-blueviolet?style=flat-square" alt="React Vite Frontend" />
+  <img src="https://img.shields.io/badge/MySQL%20%2B%20Flyway-Persistence-orange?style=flat-square" alt="MySQL Flyway Persistence" />
+  <img src="https://img.shields.io/badge/RBAC%20%2B%20Audit-Enterprise%20Workflow-purple?style=flat-square" alt="RBAC Audit" />
+</p>
 
 ### 🧱 Grafiqor
 
