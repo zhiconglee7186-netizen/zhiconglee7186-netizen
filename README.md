@@ -1,207 +1,82 @@
-# 👋 Hi there, I'm zhicong Lee
+# Hi, I'm Zhicong Lee
+
+### Backend-Oriented Full-Stack Engineer · Product Builder
+
+I build the systems behind real products: APIs, web applications, data models, deployment pipelines, device integrations, and the internal tools that keep teams moving.
+
+Based in Guangzhou, China. I usually lean toward the backend while staying involved from product planning to production delivery.
 
 <p>
-  <img src="https://img.shields.io/badge/Role-CTO%20%26%20Full--Stack%20Engineer-blue?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-green?style=for-the-badge" alt="Backend Architecture" />
-  <img src="https://img.shields.io/badge/Direction-Product%20Engineering-orange?style=for-the-badge" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-2563eb?style=flat-square" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/Approach-Product%20Engineering-0f766e?style=flat-square" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Based%20in-Guangzhou%2C%20China-475569?style=flat-square" alt="Guangzhou, China" />
 </p>
 
-## 🧑‍💻 CTO & Backend-Leaning Full-Stack Engineer
+## About Me
 
-Building productized web systems, connected-device platforms, and internal engineering tools with a strong focus on backend architecture, infrastructure, and real-world delivery.
+Much of my work sits between product and engineering. I turn ambiguous requirements into maintainable systems, connect software with devices and storage, and improve the workflows around development and delivery.
 
-I work across product planning, backend services, frontend implementation, deployment, and engineering workflow design — turning ideas into usable systems that can actually run, scale, and be maintained.
+I lead product and engineering work while remaining hands-on in architecture, implementation, and deployment. I care less about impressive demos and more about systems that stay useful after launch.
+
+## What I Build
+
+- Connected-device platforms that bring together hardware, backend services, web applications, storage, and deployment
+- Internal engineering systems for projects, requirements, tasks, quality, releases, permissions, and team collaboration
+- Product-oriented web platforms with practical content, asset, and operational workflows
+- AI-assisted image and video pipelines for product content and workflow automation
+
+## Toolset
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py,ts,react,vue,mysql,postgres,redis,docker,nginx,linux,git,githubactions&perline=8" alt="Core Technology Stack" />
+</p>
+
+- **Backend:** Java, Spring Boot, Node.js, NestJS, Python, REST APIs, authentication, Maven
+- **Frontend:** React, Vue, TypeScript, JavaScript, Next.js, Tailwind CSS, Vite
+- **Data & Storage:** MySQL, PostgreSQL, Redis, MinIO, object storage, data modeling
+- **Infrastructure:** Linux, Docker, Nginx, Cloudflare, CI/CD, GitHub Actions
+- **AI Workflows:** ComfyUI, multimodal pipelines, image and video generation, content automation
+
+## Selected Projects
+
+### Kylendar
+
+A connected smart calendar platform combining e-ink devices, backend services, web infrastructure, asset storage, and product delivery.
+
+- Led backend-oriented full-stack development across APIs, web features, device integration, and deployment
+- Built workflows for calendars, weather, multiple time zones, user assets, and object storage
+- Supported product pages, documentation, multilingual materials, and real-world launch needs
+
+### R&D Management System
+
+An internal full-stack platform for managing projects, requirements, tasks, defects, testing, releases, materials, permissions, notifications, and audit history.
+
+- Built with React, Spring Boot, MySQL, and Flyway
+- Designed APIs, authentication, role-based permissions, status histories, audit logs, and notification workflows
+- Focused on traceability, permission boundaries, maintainability, and regression-tested business flows
+
+### Grafiqor
+
+A media-oriented web platform for content, assets, backend services, and production workflows.
+
+- Developed backend services, storage integrations, task workflows, and deployment foundations
+- Worked across product planning, frontend collaboration, backend implementation, and infrastructure
+- Focused on practical delivery, maintainable architecture, and engineering efficiency
+
+## Current Focus
+
+- Deepening my understanding of backend architecture and distributed systems
+- Improving deployment reliability, CI/CD, and production operations
+- Building reusable engineering workflows and internal development tools
+- Applying AI and multimodal automation to real product workflows
+- Designing systems that can evolve without becoming difficult to operate
+
+## Engineering Principles
+
+Good software should solve a real problem, be understandable to the next person, survive production, and remain easy to change.
+
+I value clear boundaries, reliable technology, practical documentation, and steady delivery over unnecessary complexity.
 
 ---
 
-## 🚀 About Me
-
-- CTO and backend-leaning full-stack engineer based in Guangzhou, China
-- Focused on backend engineering, scalable web systems, connected-device platforms, and product delivery
-- Experienced in API design, system integration, deployment, storage workflows, and internal engineering tools
-- Building real-world products across hardware-connected services, SaaS-style platforms, and workflow systems
-- Interested in software architecture, reusable systems, engineering efficiency, and long-term technical depth
-- Currently improving system architecture, distributed systems, DevOps, and product-level engineering practices
-
----
-
-## 🧰 Tech Capabilities
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,vite,nextjs" alt="Frontend Tech Stack" />
-</p>
-
-Vue / React / TypeScript / JavaScript / Tailwind CSS / Vite / Next.js
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py" alt="Backend Tech Stack" />
-</p>
-
-Java / Spring Boot / Node.js / NestJS / Python / REST API / JWT / Maven
-
-<p>
-  <img src="https://img.shields.io/badge/REST_API-Backend%20Service-blue?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge" alt="JWT" />
-  <img src="https://img.shields.io/badge/Maven-Build%20Tool-red?style=for-the-badge" alt="Maven" />
-</p>
-
----
-
-### 🗄️ Database & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database Tech Stack" />
-</p>
-
-MySQL / PostgreSQL / Redis / MinIO / Object Storage / Data Modeling
-
-<p>
-  <img src="https://img.shields.io/badge/MinIO-Object%20Storage-red?style=for-the-badge" alt="MinIO" />
-  <img src="https://img.shields.io/badge/Object_Storage-Asset%20Management-orange?style=for-the-badge" alt="Object Storage" />
-  <img src="https://img.shields.io/badge/Data_Modeling-System%20Design-green?style=for-the-badge" alt="Data Modeling" />
-</p>
-
----
-
-### 🚀 Infrastructure & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,githubactions,git,github" alt="Infrastructure Tech Stack" />
-</p>
-
-Linux / Docker / Nginx / Cloudflare / CI/CD / GitHub Actions / System Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/CI%2FCD-Delivery%20Workflow-blue?style=for-the-badge" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/System_Deployment-Production%20Ops-success?style=for-the-badge" alt="System Deployment" />
-  <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-green?style=for-the-badge" alt="Nginx Reverse Proxy" />
-</p>
-
----
-
-### 🧩 Product & Workflow Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/API_Integration-System%20Connection-blue?style=for-the-badge" alt="API Integration" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-Engineering%20Efficiency-purple?style=for-the-badge" alt="Workflow Automation" />
-  <img src="https://img.shields.io/badge/Internal_Tools-R%26D%20Systems-green?style=for-the-badge" alt="Internal Tools" />
-  <img src="https://img.shields.io/badge/Asset_Workflows-Product%20Content-orange?style=for-the-badge" alt="Asset Workflows" />
-  <img src="https://img.shields.io/badge/Documentation_Systems-Product%20Delivery-lightgrey?style=for-the-badge" alt="Documentation Systems" />
-</p>
-
-API Integration / Workflow Automation / Internal Tools / Asset Workflows / Documentation Systems
-
----
-
-### 🤖 Applied AI & Multimodal Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch" alt="AI Workflow Tech Stack" />
-</p>
-
-ComfyUI / AI Workflow Integration / Image & Video Generation Pipelines / Automation for Product Content
-
-<p>
-  <img src="https://img.shields.io/badge/ComfyUI-Multimodal%20Workflow-black?style=for-the-badge" alt="ComfyUI" />
-  <img src="https://img.shields.io/badge/Image_Generation-Product%20Assets-blueviolet?style=for-the-badge" alt="Image Generation" />
-  <img src="https://img.shields.io/badge/Video_Generation-Content%20Pipeline-ff69b4?style=for-the-badge" alt="Video Generation" />
-  <img src="https://img.shields.io/badge/Automation-Product%20Content-success?style=for-the-badge" alt="Automation" />
-</p>
-
----
-
-## 🔭 Current Focus
-
-- Building connected-device product platforms with backend services, frontend systems, and deployment workflows
-- Developing internal R&D management tools for projects, requirements, tasks, bugs, permissions, and contribution tracking
-- Improving backend architecture, API consistency, deployment stability, and system maintainability
-- Creating reusable engineering workflows for product pages, asset generation, documentation, and delivery
-- Expanding technical depth in architecture, infrastructure, and scalable software systems
-
----
-
-## ⭐ Featured Projects
-
-### 🗓️ Kylendar
-
-A connected smart calendar product platform built around e-ink devices, backend services, web infrastructure, and productized user experiences.
-
-**Highlights**
-
-- Led backend-focused full-stack development across frontend, backend, device integration, and deployment
-- Built product features around calendar, weather, multi-time-zone display, asset management, and service workflows
-- Integrated object storage, user asset management, API services, and deployment infrastructure
-- Supported product landing pages, documentation, multilingual materials, and real-world product delivery
-- Focused on maintainability, scalable service design, and practical operation after launch
-
-**Related Capabilities**
-
-<p>
-  <img src="https://img.shields.io/badge/E--Ink%20Product-Connected%20Device-blue?style=flat-square" alt="E-Ink Product" />
-  <img src="https://img.shields.io/badge/Backend%20Service-API%20Platform-green?style=flat-square" alt="Backend Service" />
-  <img src="https://img.shields.io/badge/Object%20Storage-Asset%20Management-orange?style=flat-square" alt="Object Storage" />
-  <img src="https://img.shields.io/badge/Product%20Delivery-Real%20World%20Launch-purple?style=flat-square" alt="Product Delivery" />
-</p>
-
----
-### 🧭 R&D Management System
-
-A full-stack internal R&D project management platform built around project lifecycle tracking, delivery workflows, quality management, release coordination, permissions, notifications, and auditability.
-
-**Highlights**
-
-- Led full-stack development across React frontend, Spring Boot backend, database design, and deployment-ready infrastructure
-- Built core workflows for projects, requirements, tasks, Bugs, feature trees, test submissions, versions, releases, materials, and team collaboration
-- Designed API services with session-based authentication, role-based permissions, audit logs, status history, and notification workflows
-- Integrated MySQL persistence, Flyway migrations, JDBC repositories, file/material management, and contribution tracking
-- Supported dashboards, filtering, detail pages, admin tools, health checks, and regression-tested business flows
-- Focused on maintainability, traceable business operations, permission boundaries, and practical use by internal engineering teams
-
-**Related Capabilities**
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-R%26D%20Platform-blue?style=flat-square" alt="Full-Stack R&D Platform" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-API%20Service-green?style=flat-square" alt="Spring Boot API Service" />
-  <img src="https://img.shields.io/badge/React%20%2B%20Vite-Frontend-blueviolet?style=flat-square" alt="React Vite Frontend" />
-  <img src="https://img.shields.io/badge/MySQL%20%2B%20Flyway-Persistence-orange?style=flat-square" alt="MySQL Flyway Persistence" />
-  <img src="https://img.shields.io/badge/RBAC%20%2B%20Audit-Enterprise%20Workflow-purple?style=flat-square" alt="RBAC Audit" />
-</p>
-
-### 🧱 Grafiqor
-
-A media-oriented web platform focused on application architecture, asset workflows, backend services, and product delivery.
-
-**Highlights**
-
-- Developed backend services and platform capabilities for content, asset, and workflow management
-- Supported full-stack collaboration across frontend, backend, storage, and infrastructure
-- Built practical storage, task, and deployment workflows for real product usage
-- Focused on scalable architecture, maintainability, and engineering efficiency
-
-**Related Capabilities**
-
-<p>
-  <img src="https://img.shields.io/badge/Web%20Platform-Full--Stack%20System-blue?style=flat-square" alt="Web Platform" />
-  <img src="https://img.shields.io/badge/Asset%20Workflow-Content%20Management-orange?style=flat-square" alt="Asset Workflow" />
-  <img src="https://img.shields.io/badge/System%20Design-Maintainability-green?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/Deployment-Production%20Workflow-purple?style=flat-square" alt="Deployment" />
-</p>
-
----
-
-## 🧭 Engineering Direction
-
-I care about building systems that are not only functional, but also maintainable, deployable, and useful in real business scenarios.
-
-My long-term direction is to grow from full-stack execution into deeper backend architecture, system design, infrastructure, and product engineering leadership.
-
----
-
-
-Thanks for visiting my profile.
+Always happy to talk about backend architecture, product engineering, connected devices, and practical AI workflows.
