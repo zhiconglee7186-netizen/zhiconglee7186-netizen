@@ -2,7 +2,7 @@
 
 # Hi, I'm Zhicong Lee 👋
 
-I build software around real business workflows—from connected-device platforms and internal management systems to AI-assisted product research.
+I build software around real business workflows—from manufacturing and enterprise operations to connected-device platforms and AI-assisted product research.
 
 Based in Guangzhou, China. My work spans requirements, backend architecture, frontend integration, data modeling, deployment, and ongoing maintenance.
 
@@ -22,6 +22,7 @@ I use AI coding agents and automation as part of my development workflow, with a
 
 | Project | Domain | Engineering focus |
 | :--- | :--- | :--- |
+| 🏭 **MES** | Manufacturing operations | BOM, production, inventory, quality, SN traceability & costing |
 | 🏢 **OA System** | Enterprise collaboration | Approval logic, file previews, production delivery |
 | 🔎 **ProductSelect** | AI-assisted commerce research | Structured reports, evidence tracking, agent workflows · **In progress** |
 | 📅 **Kylendar** | Connected devices | E-ink integration, calendar APIs, asset storage |
@@ -29,6 +30,17 @@ I use AI coding agents and automation as part of my development workflow, with a
 | 🎨 **Grafiqor** | Media & content | Backend services, asset pipelines, deployment |
 
 ## 🚀 Selected Projects
+
+### 🏭 MES — Manufacturing Execution System
+
+![Java 21](https://img.shields.io/badge/Java_21-2563eb?style=flat-square) ![Spring Modulith](https://img.shields.io/badge/Spring_Modulith-6DB33F?style=flat-square) ![React](https://img.shields.io/badge/React-087EA4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
+
+A manufacturing operations system for discrete production, built with React/TypeScript and a Java/Spring Boot modular monolith using Spring Modulith, PostgreSQL, MyBatis, and Flyway.
+
+- Implemented workflows across BOM and firmware management, work orders, material reservation and issue/return, production reporting, quality inspection, and finished-goods inventory.
+- Connected serial-number and batch traceability with frozen engineering versions, quality records, and auditable corrections that preserve historical business facts.
+- Built costing workflows for purchase prices, moving-average inventory costs, work in progress, and final work-order settlement.
+- Organized the backend into 11 domain modules with explicit boundaries; strengthened business rules through regression fixes, PostgreSQL integration tests, and frontend validation.
 
 ### 🏢 OA Workflow & Collaboration System
 
@@ -84,11 +96,12 @@ A media-oriented web platform covering content, assets, backend services, and pr
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py,ts,react,vue,mysql,postgres,redis,docker,nginx,linux,git,githubactions&perline=8" alt="Core Technology Stack" />
 </p>
 
-- **Backend:** Java, Spring Boot, Node.js, NestJS, Python, REST APIs
+- **Backend:** Java, Spring Boot, Spring Modulith, MyBatis, Node.js, NestJS, Python, REST APIs
 - **Frontend:** React, Vue, TypeScript, JavaScript, Next.js, Tailwind CSS, Vite
 - **Data & Storage:** MySQL, PostgreSQL, Redis, MinIO, Flyway
 - **Infrastructure:** Linux, Docker, Nginx, Cloudflare, GitHub Actions
-- **Business Workflows:** Flowable, approval systems, role-based access control, audit trails
+- **Business Workflows:** Manufacturing execution, inventory & costing, Flowable, approval systems, role-based access control, audit trails
+- **Testing:** JUnit, Testcontainers, PostgreSQL integration tests, module boundary checks, frontend regression tests
 - **AI & Automation:** Codex, agent workflows, reusable skills, browser automation, ComfyUI, multimodal content pipelines
 
 ## 🧭 How I Build
