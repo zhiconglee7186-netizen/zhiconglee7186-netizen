@@ -22,16 +22,16 @@ I use AI coding agents and automation as part of my development workflow, with a
 
 | Project | Timeline | Domain | Engineering focus |
 | :--- | :--- | :--- | :--- |
-| 📅 **Kylendar** | `2025.12 – Present` | Connected devices | E-ink integration, calendar APIs, asset storage |
-| 🛠️ **R&D Management** | `2026.03 – 2026.06` | Engineering operations | Permissions, lifecycle tracking, audit history |
-| 🏢 **OA System** | `2025.02 – 2025.11` | Enterprise collaboration | Approval logic, file previews, production delivery |
-| 🏭 **MES** | `YYYY.MM – YYYY.MM` | Manufacturing operations | BOM, production, inventory, quality, SN traceability & costing |
-| 🔎 **ProductSelect** | `In progress` | AI-assisted commerce research | Structured reports, evidence tracking, agent workflows |
-| 🎨 **Grafiqor** | `YYYY.MM – YYYY.MM` | Media & content | Backend services, asset pipelines, deployment |
+| 📅 **Kylendar** | `2025.12–Present` | Connected devices | E-ink integration, calendar APIs, asset storage |
+| 🔎 **ProductSelect** | `2026.09–Present` | AI-assisted commerce research | Structured reports, evidence tracking, agent workflows · **In progress** |
+| 🏭 **MES** | `2026.07–2026.10` | Manufacturing operations | BOM, production, inventory, quality, SN traceability & costing |
+| 🛠️ **R&D Management** | `2026.03–2026.06` | Engineering operations | Permissions, lifecycle tracking, audit history |
+| 🏢 **OA System** | `2025.06–2025.11` | Enterprise collaboration | Approval logic, file previews, production delivery |
+| 🎨 **Grafiqor** | `2025.02–2025.05` | Media & content | Backend services, asset pipelines, deployment |
 
 ## 🚀 Selected Projects
 
-### 📅 Kylendar — Connected Smart Calendar (`2025.12 – Present`)
+### 📅 Kylendar — Connected Smart Calendar (`2025.12–Present`)
 
 ![Connected Devices](https://img.shields.io/badge/Connected_Devices-2563eb?style=flat-square) ![E-ink](https://img.shields.io/badge/E--ink-475569?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-0f766e?style=flat-square)
 
@@ -41,38 +41,7 @@ A smart calendar platform connecting e-ink devices with backend services, web ap
 - Built workflows for calendars, weather, multiple time zones, user assets, and object storage.
 - Supported product pages, documentation, multilingual materials, and launch requirements.
 
-### 🛠️ R&D Management System (`2026.03 – 2026.06`)
-
-![React](https://img.shields.io/badge/React-087EA4?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square)
-
-An internal platform for projects, requirements, tasks, defects, testing, releases, and team collaboration.
-
-- Built with React, Spring Boot, MySQL, and Flyway.
-- Designed APIs, authentication, role-based permissions, status histories, audit logs, and notification workflows.
-- Focused on traceable business flows, permission boundaries, and regression testing.
-
-### 🏢 OA Workflow & Collaboration System (`2025.02 – 2025.11`)
-
-![Java](https://img.shields.io/badge/Java-2563eb?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-0f766e?style=flat-square) ![Flowable](https://img.shields.io/badge/Flowable-475569?style=flat-square)
-
-An enterprise office automation system built on RuoYi-Vue-OA, with Java/Spring Boot, Vue, and Flowable.
-
-- Extended and maintained approval workflows, including approval decisions, rejection behavior, and node transitions.
-- Integrated document and attachment previews across Office files, PDFs, images, text, audio, video, and archives, with download fallback for unsupported formats.
-- Delivered changes through frontend and backend validation, production deployment, service checks, and rollback preparation.
-
-### 🏭 MES — Manufacturing Execution System (`YYYY.MM – YYYY.MM`)
-
-![Java 21](https://img.shields.io/badge/Java_21-2563eb?style=flat-square) ![Spring Modulith](https://img.shields.io/badge/Spring_Modulith-6DB33F?style=flat-square) ![React](https://img.shields.io/badge/React-087EA4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
-
-A manufacturing operations system for discrete production, built with React/TypeScript and a Java/Spring Boot modular monolith using Spring Modulith, PostgreSQL, MyBatis, and Flyway.
-
-- Implemented workflows across BOM and firmware management, work orders, material reservation and issue/return, production reporting, quality inspection, and finished-goods inventory.
-- Connected serial-number and batch traceability with frozen engineering versions, quality records, and auditable corrections that preserve historical business facts.
-- Built costing workflows for purchase prices, moving-average inventory costs, work in progress, and final work-order settlement.
-- Organized the backend into 11 domain modules with explicit boundaries; strengthened business rules through regression fixes, PostgreSQL integration tests, and frontend validation.
-
-### 🔎 ProductSelect — AI-Assisted Product Research (`In progress`)
+### 🔎 ProductSelect — AI-Assisted Product Research (`2026.09–Present`)
 
 ![In Progress](https://img.shields.io/badge/Status-In_Progress-d97706?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-0f766e?style=flat-square) ![Evidence Tracking](https://img.shields.io/badge/Evidence_Tracking-475569?style=flat-square)
 
@@ -83,7 +52,38 @@ An ongoing Amazon product research and selection workflow combining structured r
 - Structured agent work into reporting, evidence and decision support, and controlled execution layers.
 - Currently extending data collection and closing product, logistics, cost, and compliance evidence gaps before final Go/No-Go decisions.
 
-### 🎨 Grafiqor — Media & Content Workflows (`YYYY.MM – YYYY.MM`)
+### 🏭 MES — Manufacturing Execution System (`2026.07–2026.10`)
+
+![Java 21](https://img.shields.io/badge/Java_21-2563eb?style=flat-square) ![Spring Modulith](https://img.shields.io/badge/Spring_Modulith-6DB33F?style=flat-square) ![React](https://img.shields.io/badge/React-087EA4?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
+
+A manufacturing operations system for discrete production, built with React/TypeScript and a Java/Spring Boot modular monolith using Spring Modulith, PostgreSQL, MyBatis, and Flyway.
+
+- Implemented workflows across BOM and firmware management, work orders, material reservation and issue/return, production reporting, quality inspection, and finished-goods inventory.
+- Connected serial-number and batch traceability with frozen engineering versions, quality records, and auditable corrections that preserve historical business facts.
+- Built costing workflows for purchase prices, moving-average inventory costs, work in progress, and final work-order settlement.
+- Organized the backend into 11 domain modules with explicit boundaries; strengthened business rules through regression fixes, PostgreSQL integration tests, and frontend validation.
+
+### 🛠️ R&D Management System (`2026.03–2026.06`)
+
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square)
+
+An internal platform for projects, requirements, tasks, defects, testing, releases, and team collaboration.
+
+- Built with React, Spring Boot, MySQL, and Flyway.
+- Designed APIs, authentication, role-based permissions, status histories, audit logs, and notification workflows.
+- Focused on traceable business flows, permission boundaries, and regression testing.
+
+### 🏢 OA Workflow & Collaboration System (`2025.06–2025.11`)
+
+![Java](https://img.shields.io/badge/Java-2563eb?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-0f766e?style=flat-square) ![Flowable](https://img.shields.io/badge/Flowable-475569?style=flat-square)
+
+An enterprise office automation system built on RuoYi-Vue-OA, with Java/Spring Boot, Vue, and Flowable.
+
+- Extended and maintained approval workflows, including approval decisions, rejection behavior, and node transitions.
+- Integrated document and attachment previews across Office files, PDFs, images, text, audio, video, and archives, with download fallback for unsupported formats.
+- Delivered changes through frontend and backend validation, production deployment, service checks, and rollback preparation.
+
+### 🎨 Grafiqor — Media & Content Workflows (`2025.02–2025.05`)
 
 A media-oriented web platform covering content, assets, backend services, and production workflows.
 
